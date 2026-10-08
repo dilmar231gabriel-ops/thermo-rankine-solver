@@ -1,0 +1,6 @@
+{
+  "cycle": "rankine_ideal",
+  "boiler_pressure_bar": 80.0,
+  "condenser_pressure_bar": 0.1,
+  "turbine_inlet_temperature_C": 480.0
+}
